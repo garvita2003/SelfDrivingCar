@@ -14,3 +14,11 @@ parallelization -> optimizing neural network -> apply sensor to the car that is 
 6. GENETIC ALGORITHM -> having many much traffic and check for the car to make an intelligent choice by its own and save the best one to the local storage, take more car that are copy of best car so that we have enough car for further rounds as well and again take best among that (mutate a network) and increase a traffic gradually and try for harder traffic condition for the self driving car, take along all the cars that passed the obstacle so that we get more chance for further traffic smart choice of the car (main.js, network.js)
 car looking -> create a car structure, give the dummy car the random color and the original ai car as blue and it changes to grey in case of collision (main.js, car.js, utils.js)
 JS, NN AND ML
+
+# Technology Used :
+1. HTML
+2. CSS
+3. ADVANCED JAVASCRIPT
+
+# Overview :
+Video Demo (https://drive.google.com/file/d/1Cvj2uhfrN95Q5zRgvtJXyfokxuoQrzXo/view?usp=sharing)
